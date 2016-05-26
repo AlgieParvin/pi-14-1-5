@@ -8,4 +8,5 @@ class Greeter
   def farewel
     "Good bye, #{@who}"
   end
+  end
 end
